@@ -14,7 +14,7 @@
   },
   "dependencies": {
     "@babel/polyfill": "^7.12.1",
-    "fractional": "^1.0.0",
+    "fracty": "^1.0.11",
     "regenerator-runtime": "^0.13.9"
   }
 }
